@@ -57,6 +57,8 @@ namespace Thread002
 			workerThread.Join();
 
 			Console.WriteLine("main thread: Worker thread has terminated.");
+			// Github에 추가
+			// after adding someting
 		}
 	}
 }
